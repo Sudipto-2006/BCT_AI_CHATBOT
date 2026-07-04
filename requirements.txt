@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+requests
+wikipedia
+duckduckgo-search
+beautifulsoup4
+lxml
