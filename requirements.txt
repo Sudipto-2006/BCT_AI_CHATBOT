@@ -1,8 +1,10 @@
 streamlit
-groq
-python-dotenv
-requests
+pandas
 wikipedia
+plotly
+groq
+PyPDF2
+python-docx
 duckduckgo-search
-beautifulsoup4
-lxml
+gTTS
+audio-recorder-streamlit
